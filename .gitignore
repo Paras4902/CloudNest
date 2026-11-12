@@ -1,1 +1,6 @@
 Personal Access token.txt
+*.tfstate
+*.tfstate.backup
+**/.terraform/*
+*.tfvars
+.terraform.lock.hcl
