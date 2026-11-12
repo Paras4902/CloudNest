@@ -1,7 +1,6 @@
-Personal Access token.txt
+**/.DS_Store
 *.tfstate
 *.tfstate.backup
 **/.terraform/*
 *.tfvars
 .terraform.lock.hcl
-project-structure.txt
