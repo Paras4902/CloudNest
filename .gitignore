@@ -4,3 +4,4 @@ Personal Access token.txt
 **/.terraform/*
 *.tfvars
 .terraform.lock.hcl
+project-structure.txt
